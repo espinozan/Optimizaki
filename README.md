@@ -1,7 +1,7 @@
 # optimizaki
 script en batch diseñado para optimizar el rendimiento de Windows (todas las versiones) en sistemas con recursos limitados. Este script deshabilita servicios innecesarios y configura otros para que se ejecuten manualmente, mejorando así el rendimiento general del sistema.
 
-Optimizaki es una herramienta indispensable para aquellos que buscan maximizar el rendimiento de su PC con Windows 10, especialmente en sistemas con recursos limitados. Este script batch es eficaz porque:
+Optimizaki es una herramienta indispensable para aquellos que buscan maximizar el rendimiento de su PC con Windows, especialmente en sistemas con recursos limitados. Este script batch es eficaz porque:
 
 Mejora el Rendimiento: Al deshabilitar servicios innecesarios, libera recursos del sistema, lo que resulta en una mejora notable en la velocidad y capacidad de respuesta del equipo.
 Aumenta la Eficiencia: Configura servicios clave para que se inicien manualmente en lugar de automáticamente, lo que reduce la carga durante el arranque y permite que tu PC funcione de manera más eficiente.
