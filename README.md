@@ -1,5 +1,5 @@
 # optimizaki
-script en batch diseñado para optimizar el rendimiento de Windows 10 en sistemas con recursos limitados. Este script deshabilita servicios innecesarios y configura otros para que se ejecuten manualmente, mejorando así el rendimiento general del sistema.
+script en batch diseñado para optimizar el rendimiento de Windows (todas las versiones) en sistemas con recursos limitados. Este script deshabilita servicios innecesarios y configura otros para que se ejecuten manualmente, mejorando así el rendimiento general del sistema.
 
 Optimizaki es una herramienta indispensable para aquellos que buscan maximizar el rendimiento de su PC con Windows 10, especialmente en sistemas con recursos limitados. Este script batch es eficaz porque:
 
@@ -8,11 +8,11 @@ Aumenta la Eficiencia: Configura servicios clave para que se inicien manualmente
 Fácil de Usar: Con una ejecución simple como administrador, Optimizaki realiza automáticamente todas las optimizaciones necesarias, eliminando la necesidad de configuraciones manuales complicadas.
 Personalizable: La lista de servicios que se deshabilitan o configuran es completamente ajustable, permitiéndote adaptar el script a tus necesidades específicas.
 Beneficioso para Hardware Modesto: Ideal para PCs con bajos recursos (por ejemplo, 2 GB de RAM), asegurando que obtengan el mejor rendimiento posible sin la necesidad de actualizaciones de hardware costosas.
-Optimizaki es, por tanto, una solución simple, eficaz y necesaria para mantener tu PC con Windows 10 funcionando de manera óptima y sin problemas.
+Optimizaki es, por tanto, una solución simple, eficaz y necesaria para mantener tu PC con Windows 10, 8, 7 y xp funcionando de manera óptima y sin problemas.
 
 ## Características
 
-- Deshabilita servicios innecesarios de Windows 10.
+- Deshabilita servicios innecesarios de Windows 10, 8, 7.
 - Configura ciertos servicios para que se ejecuten manualmente en lugar de automáticamente.
 - Mejora el rendimiento general del sistema en PCs con hardware modesto.
 
