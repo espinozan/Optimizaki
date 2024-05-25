@@ -53,7 +53,7 @@ El script configura los siguientes servicios para que se ejecuten manualmente:
 
 ## Requisitos
 
-- Windows 10
+- Windows (Todas las versiones)
 - Permisos de administrador
 
 ## Uso
@@ -70,7 +70,7 @@ El script configura los siguientes servicios para que se ejecuten manualmente:
 ## Advertencias
 
 - **Precaución:** Deshabilitar servicios puede afectar la funcionalidad del sistema. Asegúrate de que los servicios que deshabilitas no sean críticos para el uso que le das a tu PC.
-- **Personalización:** La lista de servicios deshabilitados y configurados como manual en este script es un ejemplo. Revisa y ajusta la lista según tus necesidades y el uso específico de tu sistema.
+- **Personalización:** La lista de servicios deshabilitados y configurados como manual en este script es una base y puede ser personalizable. Revisa y ajusta la lista según tus necesidades y el uso específico de tu sistema.
 - **Revisión:** Consulta la documentación de Microsoft o fuentes confiables para entender qué hace cada servicio antes de deshabilitarlo o cambiar su configuración.
 
 ## Contribuciones
